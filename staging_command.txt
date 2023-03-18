@@ -1,0 +1,1 @@
+A staging step in git allows you to continue making changes to the working directory .

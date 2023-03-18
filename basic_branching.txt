@@ -1,0 +1,1 @@
+Branching in Git is a way to create a separate line of development in your codebase. It allows you to work on new features or fixes without interfering with the main codebase, and then merge your changes back in when you are ready.

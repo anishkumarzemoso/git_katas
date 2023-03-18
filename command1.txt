@@ -1,0 +1,1 @@
+In git. a commit is a snapshot of our repo at a specific point in time .
